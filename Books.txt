@@ -1,0 +1,7 @@
+Rajeev Gupta San
+1. Head first core java
+Head first OOAD (Analysis and design)
+2. Head first design pattern - imp
+Clean code
+* Effective Java - training assignments
+Java performance - the definitive guide
