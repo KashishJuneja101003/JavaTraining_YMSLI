@@ -5,7 +5,7 @@ public class Q6_CLA {
     public static void main(String[] args) {
 
         if (args.length != 2) {
-            System.out.println("Usage: java Q6_CLA <name> <age>");
+            System.out.println("Provide 2 arguments only...no more no less.");
             return;
         }
 
