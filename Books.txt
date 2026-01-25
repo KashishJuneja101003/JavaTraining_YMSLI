@@ -1,3 +1,4 @@
+
 Rajeev Gupta San
 1. Head first core java
 Head first OOAD (Analysis and design)
@@ -6,3 +7,6 @@ Clean code
 * Effective Java - training assignments
 Java performance - the definitive guide
 Java Kathey Sierra - book used for certification
+
+
+Java Brain - YT channel
