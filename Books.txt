@@ -9,4 +9,8 @@ Java performance - the definitive guide
 Java Kathey Sierra - book used for certification
 
 
+Spring inaction
+Hibernate inaction
+
+
 Java Brain - YT channel
